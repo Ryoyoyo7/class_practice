@@ -1,7 +1,7 @@
 msg = 'Hello World!'
 print(msg)
 
-a = 5
-b = 7
+a = 50
+b = 100
 
 print(a+b)
